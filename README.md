@@ -1,7 +1,7 @@
 # Community-Forum-Application
 
 ## Installation
-1. **Clone the repository**:
+1. **Clone the repository**:https://github.com/Marc-J-L/Community-Forum-Application.git
     ```
     git clone 
     ```
