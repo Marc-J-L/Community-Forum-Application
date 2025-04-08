@@ -1,0 +1,309 @@
+
+/* Dark Theme Colors inspired by Reddit */
+body {
+	background-color: #1a1a1b !important; /* Dark background */
+	color: #d7dadc !important; /* Light text color */
+}
+
+
+
+p {
+	color: #9e9e9e !important; /* Slightly lighter gray for paragraphs */
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+	background: rgba(215, 218, 220, 0.2) !important; /* Light scrollbar */
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: rgba(215, 218, 220, 0.4) !important;
+}
+
+::-webkit-scrollbar-thumb:active {
+	background: rgba(215, 218, 220, 0.6) !important;
+}
+
+/* Inputs */
+input, textarea {
+	background-color: #272729 !important; /* Dark gray input background */
+	color: #d7dadc !important; /* Light text color */
+}
+
+/* Buttons */
+button {
+	background-color: #ff4500 !important; /* Reddit orange for buttons */
+	color: #fff !important; /* White text */
+}
+
+button:hover {
+	background-color: #ff5700 !important; /* Slightly lighter orange on hover */
+}
+
+/* Cards */
+.MuiPaper-root {
+	
+	background-color: #272729 !important; /* Dark card background */
+	color: #d7dadc !important; /* Light text color */
+}
+
+/* Menu Items */
+.MuiMenuItem-root {
+	background-color: #1a1a1b !important; /* Dark background for menu items */
+	color: #d7dadc !important; /* Light text */
+}
+
+.MuiMenuItem-root:hover {
+	background-color: #333 !important; /* Slightly lighter on hover */
+}
+
+/* Divider */
+.MuiDivider-root {
+	border-color: #444 !important; /* Darker divider color */
+}
+
+/* Avatars */
+.MuiAvatar-root {
+	background-color: #333 !important; /* Dark avatar background */
+	color: #ff4500 !important; /* Orange initials for avatars */
+}
+
+
+
+/* Change Password and Edit Profile buttons */
+.MuiButton-root.MuiButton-containedPrimary {
+	background-color: #ff4500 !important; /* Orange for primary buttons */
+	color: #fff !important; /* White text */
+}
+
+.MuiButton-root.MuiButton-containedPrimary:hover {
+	background-color: #ff5700 !important; /* Slightly lighter on hover */
+}
+
+/* Dialogs */
+.MuiDialog-root {
+	background-color: #272729 !important; /* Dark dialog background */
+	color: #d7dadc !important; /* Light text */
+}
+
+/* Form Inputs */
+.MuiInputBase-input {
+	background-color: #272729 !important; /* Dark input background */
+	color: #d7dadc !important; /* Light text */
+}
+
+.MuiSelect-root {
+	background-color: #272729 !important; /* Dark select background */
+	color: #d7dadc !important; /* Light text */
+}
+
+/* Tooltip */
+.MuiTooltip-tooltip {
+	background-color: #333 !important; /* Dark tooltip background */
+	color: #fff !important; /* Light text */
+}
+
+/* Nav Drawer */
+.MuiDrawer-paper {
+	background-color: #1a1a1b !important; /* Dark background for the drawer */
+	color: #d7dadc !important; /* Light text */
+}
+
+.MuiListItem-root {
+	background-color: #272729 !important; /* Dark background for list items */
+	color: #d7dadc !important; /* Light text */
+}
+
+.MuiListItem-root:hover {
+	background-color: #333 !important; /* Slightly lighter on hover */
+}
+
+
+
+
+
+/* Miscellaneous Elements */
+.MuiPaper-elevation3 {
+	background-color: #272729 !important; /* Dark paper background */
+	color: #d7dadc !important; /* Light text */
+}
+
+/* Search Input in Header */
+.MuiSvgIcon-root {
+	color: #e0ebe2 !important; /* Orange for search icon */
+}
+
+
+  
+  /* Typography captions */
+  .MuiTypography-caption {
+	color: #9e9e9e !important; /* Lighter gray for captions */
+  }
+  
+  /* Paper component */
+  .MuiPaper-root {
+	background-color: #272729 !important; /* Dark card background */
+	color: #d7dadc !important; /* Light text */
+  }
+  
+  /* Input Fields (Email, Password, etc.) */
+  .MuiOutlinedInput-root {
+	background-color: #1a1a1b !important; /* Dark input background */
+	color: #d7dadc !important; /* Light text */
+  }
+  
+  .MuiOutlinedInput-notchedOutline {
+	border-color: #444 !important; /* Darker border for input */
+  }
+  
+  .MuiInputLabel-root {
+	color: #9e9e9e !important; /* Light gray for labels */
+  }
+  
+  .MuiInputBase-input {
+	background-color: #272729 !important; /* Dark input background */
+	color: #d7dadc !important; /* Light text */
+  }
+  
+  /* Form Labels */
+  label.MuiInputLabel-root {
+	color: #9e9e9e !important; /* Lighter gray for form labels */
+  }
+  
+  /* Buttons */
+  .MuiButton-containedPrimary {
+	background-color: #ff4500 !important; /* Reddit orange for primary buttons */
+	color: #fff !important; /* White text */
+  }
+  
+  .MuiButton-containedPrimary:hover {
+	background-color: #ff5700 !important; /* Slightly lighter on hover */
+  }
+  
+  /* Secondary Buttons (Text Buttons like 'Register here') */
+  .MuiButton-textPrimary {
+	color: #f1f5f1 !important; /* Orange for text buttons */
+  }
+  
+  .MuiButton-textPrimary:hover {
+	color: #ff5700 !important; /* Slightly lighter orange on hover */
+  }
+  
+  /* Typography inside Forms */
+  .MuiTypography-alignCenter {
+	color: #d7dadc !important; /* Light text for form text */
+  }
+  
+ 
+  
+
+  
+ 
+
+
+  /* Toolbar */
+.MuiToolbar-root {
+	background-color: #3c3c3e !important; /* Dark toolbar background */
+	color: #d7dadc !important; /* Light toolbar text */
+}
+
+
+
+  /* IconButton */
+.MuiIconButton-root {
+	color: #ff4500 !important; /* Reddit orange for icon buttons */
+}
+
+.MuiIconButton-root:hover {
+	color: #a19f9d !important; /* Slightly lighter on hover */
+}
+.MuiTypography-h4 {
+	color: #ff00e6 !important; /* Reddit-like orange for major headers */
+}
+
+.MuiTypography-h6 {
+	color: #088ee8 !important; /* Light text for subheadings */
+}
+/* Dark theme adjustments for SVG icons */
+svg.MuiSvgIcon-root {
+	fill: #caf4ed  !important; /* Reddit orange for icons */
+  }
+
+  svg.MuiSvgIcon-root:hover {
+	fill: #41edd0  !important; /* Reddit orange for icons */
+  }
+
+
+    /* Menu Icons */
+	svg[data-testid="ThumbDownIcon"], 
+	svg[data-testid="MenuIcon"], 
+	svg[data-testid="EditIcon"], 
+	svg[data-testid="DeleteIcon"] {
+	  fill: #caf4ed !important; /* Reddit orange for icons */
+	}
+	
+	svg[data-testid="ThumbDownIcon"]:hover, 
+	svg[data-testid="MenuIcon"]:hover, 
+	svg[data-testid="EditIcon"]:hover, 
+	svg[data-testid="DeleteIcon"]:hover {
+	  fill: #41edd0  !important; /* Lighter orange on hover */
+	}
+
+
+	/* Dark theme adjustments for SVG icons only on this page */
+.nav-page svg.MuiSvgIcon-root {
+	fill: #ff4500 !important; /* Reddit orange for icons */
+  }
+
+
+  /* Typography */
+h1{
+	color: #08303a !important; /* Light text color */
+}
+ h2{
+	color: #6e5906 !important; /* Light text color */
+}
+h3 {
+	color: #02663e !important; /* Light text color */
+}
+ h4 {
+	color: rgb(8, 53, 189) !important; /* Light text color */
+}
+ h5 {
+	color: #9d1c83 !important; /* Light text color */
+}
+h6 {
+	color: #e43d3d !important; /* Light text color */
+}
+p{
+	color: #61f675 !important; /* Light text color */
+}
+
+
+/* Headers and Text in Profile */
+
+
+.MuiTypography-body1 {
+	color: #e43d3d !important; /* Gray for profile information text */
+}
+ /* Additional span elements (dates, etc.) */
+ .MuiTypography-caption {
+	color: #77def8 !important; /* Light gray for captions */
+  }
+
+   /* General form container */
+ .MuiBox-root {
+	background-color: #3c3c3e !important; /* Dark background for form box */
+	color: #d7dadc !important; /* Light text */
+  }
+  .commentsAccordionSytle{
+	background-color: #1e1e20 !important; /* Dark background for form box */
+	color: #d7dadc !important; /* Light text */
+  }
+
+	.CommentSectionpageComments{
+	background-color: #272729 !important; /* Dark card background */
+	
+}
+
+ 
